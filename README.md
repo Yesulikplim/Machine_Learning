@@ -8,6 +8,7 @@ Steps
     <li>Import the dataset</li>
     <li>Do Exporatory Data Analysis (EDA)</li>
     <li>Preprocess and split</li>
+    <li>Data Normalization or Standardization</li>
     <li>Build the appropriate model</li>
     <li>Train/fit the model</li>
     <li>Prediction</li>
